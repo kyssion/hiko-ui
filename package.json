@@ -1,11 +1,12 @@
 {
   "name": "hiko-ui",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "hiko ui engine",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 0",
+    "start":"node script/start.js"
   },
-  "author": "",
-  "license": "ISC"
+  "author": "kyssion <1409915687@qq.com>",
+  "license": "ISC",
+  "repository": "git@github.com:kyssion/hiko-ui.git"
 }
