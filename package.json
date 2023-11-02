@@ -4,9 +4,15 @@
   "description": "hiko ui engine",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 0",
-    "start":"node script/start.js"
+    "start": "node script/start.js",
+    "build": ""
   },
   "author": "kyssion <1409915687@qq.com>",
   "license": "ISC",
-  "repository": "git@github.com:kyssion/hiko-ui.git"
+  "repository": "git@github.com:kyssion/hiko-ui.git",
+  "devDependencies": {
+    "typescript": "^5.2.2"
+  },
+  "dependencies": {
+  }
 }
