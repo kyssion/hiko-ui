@@ -11,8 +11,7 @@
   "license": "ISC",
   "repository": "git@github.com:kyssion/hiko-ui.git",
   "devDependencies": {
+    "execa": "^8.0.1",
     "typescript": "^5.2.2"
-  },
-  "dependencies": {
   }
 }
