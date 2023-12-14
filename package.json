@@ -7,12 +7,21 @@
     "start": "node script/start.js",
     "build": ""
   },
+  "type": "module",
   "author": "kyssion <1409915687@qq.com>",
   "license": "ISC",
   "repository": "git@github.com:kyssion/hiko-ui.git",
   "devDependencies": {
+    "@babel/parser": "^7.23.0",
+    "@rollup/plugin-commonjs": "^25.0.7",
+    "@rollup/plugin-json": "^6.0.1",
+    "@rollup/plugin-node-resolve": "^15.2.3",
+    "@rollup/plugin-replace": "^5.0.5",
+    "@rollup/plugin-terser": "^0.4.4",
+    "@types/node": "^20.9.0",
+    "execa": "^8.0.1",
+    "rollup-plugin-dts": "^6.1.0",
+    "rollup-plugin-esbuild": "^6.1.0",
     "typescript": "^5.2.2"
-  },
-  "dependencies": {
   }
 }
