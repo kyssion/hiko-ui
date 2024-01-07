@@ -10,7 +10,7 @@
     "build": ""
   },
   "type": "module",
-  "author": "kyssion <1409915687@qq.com>",
+  "author": "kyssion",
   "license": "ISC",
   "repository": "git@github.com:kyssion/hiko-ui.git",
   "devDependencies": {
